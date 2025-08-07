@@ -56,7 +56,7 @@ Pipeline triggers on every push to the main branch.
 
 ![Github actions Pipeline](GitHub_actions_pipeline.png)
 
-![Github actions Workflow](GitHub_actions_workflow.png)
+![Github actions Workflow](GItHub_actions_workflow.png)
 
 ## Setup Instructions
 1. Fork or clone the sample Node.js app repository.
