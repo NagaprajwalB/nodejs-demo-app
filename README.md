@@ -54,6 +54,10 @@ Pipeline triggers on every push to the main branch.
 
 **Pipeline Workflow** : `https://github.com/NagaprajwalB/nodejs-demo-app/actions`
 
+![Github actions Pipeline](GitHub_actions_pipeline.png)
+
+![Github actions Workflow](GitHub_actions_workflow.png)
+
 ## Setup Instructions
 1. Fork or clone the sample Node.js app repository.
 
