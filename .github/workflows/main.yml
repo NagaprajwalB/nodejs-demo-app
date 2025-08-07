@@ -20,8 +20,8 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Tests (optional)
-        run: echo "No tests specified"
+      - name: Run Tests 
+        run: test
 
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
