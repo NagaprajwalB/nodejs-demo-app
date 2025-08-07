@@ -35,4 +35,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: https://hub.docker.com/repositories/prajjub/node-app:latest
+          tags: prajjub/node-app:latest
